@@ -1,0 +1,11 @@
+﻿  StringSplitter.cpp
+  PathFinder.cpp
+  Path.cpp
+  Node.cpp
+  main.cpp
+c:\users\piotrek\documents\visual studio 2015\projects\pszt_przesuzkiwanie\pszt_przesuzkiwanie\main.cpp(30): warning C4129: 'T': unrecognized character escape sequence
+  Heap.cpp
+  Edge.cpp
+  Generating Code...
+  PSZT_Przesuzkiwanie.vcxproj -> c:\users\piotrek\documents\visual studio 2015\Projects\PSZT_Przesuzkiwanie\Debug\PSZT_Przesuzkiwanie.exe
+  PSZT_Przesuzkiwanie.vcxproj -> c:\users\piotrek\documents\visual studio 2015\Projects\PSZT_Przesuzkiwanie\Debug\PSZT_Przesuzkiwanie.pdb (Full PDB)
